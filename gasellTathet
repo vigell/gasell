@@ -1,0 +1,244 @@
+[
+ {
+   "Lan": "Stockholm",
+   "Antal gaseller": 277,
+   "Anställda 2016": 3987,
+   "Anställda 2019": 8234,
+   "Gaselltäthet (gaseller": {
+      "100 000 invånare)": "11,7"
+   },
+   "Region": "Stockholm",
+   "Antal nya anställningar": 4247
+},
+ {
+   "Lan": "Uppsala",
+   "Antal gaseller": 25,
+   "Anställda 2016": 333,
+   "Anställda 2019": 625,
+   "Gaselltäthet (gaseller": {
+      "100 000 invånare)": "6,5"
+   },
+   "Region": "Uppsala",
+   "Antal nya anställningar": 292
+},
+ {
+   "Lan": "Södermanland",
+   "Antal gaseller": 20,
+   "Anställda 2016": 387,
+   "Anställda 2019": 767,
+   "Gaselltäthet (gaseller": {
+      "100 000 invånare)": "6,7"
+   },
+   "Region": "Södermanland",
+   "Antal nya anställningar": 380
+},
+ {
+   "Lan": "Östergötland",
+   "Antal gaseller": 39,
+   "Anställda 2016": 627,
+   "Anställda 2019": 1258,
+   "Gaselltäthet (gaseller": {
+      "100 000 invånare)": "8,4"
+   },
+   "Region": "Östergötland",
+   "Antal nya anställningar": 631
+},
+ {
+   "Lan": "Jönköping",
+   "Antal gaseller": 17,
+   "Anställda 2016": 705,
+   "Anställda 2019": 1743,
+   "Gaselltäthet (gaseller": {
+      "100 000 invånare)": "4,7"
+   },
+   "Region": "Jönköping",
+   "Antal nya anställningar": 1038
+},
+ {
+   "Lan": "Kronoberg",
+   "Antal gaseller": 21,
+   "Anställda 2016": 542,
+   "Anställda 2019": 1018,
+   "Gaselltäthet (gaseller": {
+      "100 000 invånare)": "10,4"
+   },
+   "Region": "Kronoberg",
+   "Antal nya anställningar": 476
+},
+ {
+   "Lan": "Kalmar",
+   "Antal gaseller": 9,
+   "Anställda 2016": 106,
+   "Anställda 2019": 220,
+   "Gaselltäthet (gaseller": {
+      "100 000 invånare)": "3,7"
+   },
+   "Region": "Kalmar",
+   "Antal nya anställningar": 114
+},
+ {
+   "Lan": "Gotland",
+   "Antal gaseller": 3,
+   "Anställda 2016": 15,
+   "Anställda 2019": 38,
+   "Gaselltäthet (gaseller": {
+      "100 000 invånare)": "5,0"
+   },
+   "Region": "Gotland",
+   "Antal nya anställningar": 23
+},
+ {
+   "Lan": "Blekinge",
+   "Antal gaseller": 8,
+   "Anställda 2016": 84,
+   "Anställda 2019": 183,
+   "Gaselltäthet (gaseller": {
+      "100 000 invånare)": "5,0"
+   },
+   "Region": "Blekinge",
+   "Antal nya anställningar": 99
+},
+ {
+   "Lan": "Skåne",
+   "Antal gaseller": 100,
+   "Anställda 2016": 1772,
+   "Anställda 2019": 3656,
+   "Gaselltäthet (gaseller": {
+      "100 000 invånare)": "7,3"
+   },
+   "Region": "Skåne",
+   "Antal nya anställningar": 1884
+},
+ {
+   "Lan": "Halland",
+   "Antal gaseller": 25,
+   "Anställda 2016": 308,
+   "Anställda 2019": 650,
+   "Gaselltäthet (gaseller": {
+      "100 000 invånare)": "7,5"
+   },
+   "Region": "Halland",
+   "Antal nya anställningar": 342
+},
+ {
+   "Lan": "Västra Götaland",
+   "Antal gaseller": 144,
+   "Anställda 2016": 1982,
+   "Anställda 2019": 4276,
+   "Gaselltäthet (gaseller": {
+      "100 000 invånare)": "8,3"
+   },
+   "Region": "Västra Götaland",
+   "Antal nya anställningar": 2294
+},
+ {
+   "Lan": "Värmland",
+   "Antal gaseller": 16,
+   "Anställda 2016": 242,
+   "Anställda 2019": 497,
+   "Gaselltäthet (gaseller": {
+      "100 000 invånare)": "5,7"
+   },
+   "Region": "Värmland",
+   "Antal nya anställningar": 255
+},
+ {
+   "Lan": "Örebro",
+   "Antal gaseller": 15,
+   "Anställda 2016": 168,
+   "Anställda 2019": 314,
+   "Gaselltäthet (gaseller": {
+      "100 000 invånare)": "4,9"
+   },
+   "Region": "Örebro",
+   "Antal nya anställningar": 146
+},
+ {
+   "Lan": "Västmanland",
+   "Antal gaseller": 19,
+   "Anställda 2016": 203,
+   "Anställda 2019": 432,
+   "Gaselltäthet (gaseller": {
+      "100 000 invånare)": "6,9"
+   },
+   "Region": "Västmanland",
+   "Antal nya anställningar": 229
+},
+ {
+   "Lan": "Dalarna",
+   "Antal gaseller": 16,
+   "Anställda 2016": 215,
+   "Anställda 2019": 350,
+   "Gaselltäthet (gaseller": {
+      "100 000 invånare)": "5,6"
+   },
+   "Region": "Dalarna",
+   "Antal nya anställningar": 135
+},
+ {
+   "Lan": "Gävleborg",
+   "Antal gaseller": 19,
+   "Anställda 2016": 246,
+   "Anställda 2019": 477,
+   "Gaselltäthet (gaseller": {
+      "100 000 invånare)": "6,6"
+   },
+   "Region": "Gävleborg",
+   "Antal nya anställningar": 231
+},
+ {
+   "Lan": "Västernorrland",
+   "Antal gaseller": 22,
+   "Anställda 2016": 217,
+   "Anställda 2019": 395,
+   "Gaselltäthet (gaseller": {
+      "100 000 invånare)": "9,0"
+   },
+   "Region": "Västernorrland",
+   "Antal nya anställningar": 178
+},
+ {
+   "Lan": "Jämtland",
+   "Antal gaseller": 15,
+   "Anställda 2016": 171,
+   "Anställda 2019": 299,
+   "Gaselltäthet (gaseller": {
+      "100 000 invånare)": "11,5"
+   },
+   "Region": "Jämtland",
+   "Antal nya anställningar": 128
+},
+ {
+   "Lan": "Västerbotten",
+   "Antal gaseller": 12,
+   "Anställda 2016": 156,
+   "Anställda 2019": 277,
+   "Gaselltäthet (gaseller": {
+      "100 000 invånare)": "4,4"
+   },
+   "Region": "Västerbotten",
+   "Antal nya anställningar": 121
+},
+ {
+   "Lan": "Norrbotten",
+   "Antal gaseller": 24,
+   "Anställda 2016": 431,
+   "Anställda 2019": 926,
+   "Gaselltäthet (gaseller": {
+      "100 000 invånare)": "9,6"
+   },
+   "Region": "Norrbotten",
+   "Antal nya anställningar": 495
+},
+ {
+   "Lan": "Sverige",
+   "Antal gaseller": 846,
+   "Anställda 2016": 12897,
+   "Anställda 2019": 26635,
+   "Gaselltäthet (gaseller": {
+      "100 000 invånare)": "8,2"
+   },
+   "Region": "Sverige",
+   "Antal nya anställningar": 13738
+}
+]
