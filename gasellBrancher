@@ -1,0 +1,62 @@
+[
+ {
+   "Branch": "Bygg- och entreprenadföretag",
+   "Count": 263,
+   "Procent": "31,09 %"
+ },
+ {
+   "Branch": "It-företag",
+   "Count": 105,
+   "Procent": "12,41 %"
+ },
+ {
+   "Branch": "Konsultföretag",
+   "Count": 99,
+   "Procent": "11,70 %"
+ },
+ {
+   "Branch": "Handelsföretag",
+   "Count": 73,
+   "Procent": "8,63 %"
+ },
+ {
+   "Branch": "Företagstjänster",
+   "Count": 58,
+   "Procent": "6,86 %"
+ },
+ {
+   "Branch": "Transport",
+   "Count": 54,
+   "Procent": "6,38 %"
+ },
+ {
+   "Branch": "Tillverkning",
+   "Count": 52,
+   "Procent": "6,15 %"
+ },
+ {
+   "Branch": "Vård och omsorg",
+   "Count": 16,
+   "Procent": "1,89 %"
+ },
+ {
+   "Branch": "Medier, kultur, nöje",
+   "Count": 26,
+   "Procent": "3,07 %"
+ },
+ {
+   "Branch": "Hotell och restauranger",
+   "Count": 14,
+   "Procent": "1,65 %"
+ },
+ {
+   "Branch": "Övriga",
+   "Count": 86,
+   "Procent": "10,17 %"
+ },
+ {
+   "Branch": "Totalt",
+   "Count": 846,
+   "Procent": "100,00 %"
+ }
+]
