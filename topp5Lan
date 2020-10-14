@@ -1,149 +1,149 @@
 {
-  "Gävleborgs län": [
-    "PULVERLACK I HEDESUNDA AB",
-    "H-B BYGG I HÄLSINGLAND AB",
-    "SIDSKOGEN BYGG & ANLÄGGNING AB",
-    "HANELL ENTREPRENAD I GÄVLE AB",
-    "J.B. DISTRIBUTION AB"
+  'Gävleborgs län': [
+    'SEMCAB, SWEDISH ELECTRIC MECHANICAL CONSTRUCTION AKTIEBOLAG',
+    'ROBERT LJUNGS BYGG AB',
+    'APPTECH 24 AB',
+    'SÖDERHAMNS TAXI AKTIEBOLAG',
+    'OVES TANK & FRAKT AB',
   ],
-  "Dalarnas län": [
-    "BIKETOWN SVERIGE AB",
-    "ARKOS HOME AB",
-    "MORA BYGG AB",
-    "WALLNERS ÅKERI AKTIEBOLAG",
-    "ÄLVDALENS VVS AB"
+  'Dalarnas län': [
+    'NYMAN JANSSON BYGG AB',
+    'NORDIC TRACKSERVICE I NORDEN AB',
+    'BIKETOWN SVERIGE AB',
+    'MORA CONTRACT MANUFACTURING AB',
+    'MAFI AKTIEBOLAG',
   ],
-  "Östergötlands län": [
-    "XAMERA AB",
-    "BYGGTEC I NORRKÖPING AB",
-    "ELTJÄNST I NKPG AB",
-    "KF ENTREPRENAD AKTIEBOLAG",
-    "NORDISKA ENTREPRENADSYSTEM AB"
+  'Östergötlands län': [
+    'Againity AB',
+    'iDoc AB',
+    'STJÄRNKLINIKEN AB',
+    'Soffadirekt Scandinavia AB',
+    'GUTE - BOSSE AB',
   ],
-  "Gotlands län": [
-    "GRÄVSNABBEN AKTIEBOLAG",
-    "BROSTRÖMS GOTLAND AB",
-    "BRUCESSONS GRÄV & ENTREPRENAD AB",
-    "GOTLANDSBYGGEN AKTIEBOLAG",
-    "GOTLANDS EL & TELE TEKNIK AB"
+  'Gotlands län': [
+    'Visby spiran AB',
+    'BRUCESSONS GRÄV & ENTREPRENAD AB',
+    'ImseVimse Aktiebolag',
+    '-',
+    '-',
   ],
-  "Södermanlands län": [
-    "S D ENTREPRENAD AB",
-    "MICKE ALM BYGG OCH GRÄVTEKNIK AB",
-    "VENTILATIONSTEKNIK ROBERT HALLBERG AB",
-    "WEST 2000 AKTIEBOLAG",
-    "WEST 2000 AKTIEBOLAG"
+  'Södermanlands län': [
+    'EcoKraft Sverige AB',
+    'BYGGFIRMA LUNDBY BYGG AB',
+    'SUG & BLÅSBIL SVERIGE AB',
+    'KATRINEHOLMS TAK & BYGGSPECIALISTEN AB',
+    'TRAKKA SYSTEMS AB',
   ],
-  "Jämtlands län": [
-    "BYGG ENTREPRENAD I JÄMTLAND AB",
-    "BYGGRUPPEN I JÄMTLAND AB",
-    "OVAB OPTIMAL VENTILATION AB",
-    "ÖSTLUNDS MARK OCH STEN AB ",
-    "HÅXÅS SKOGSTJÄNST AB"
+  'Jämtlands län': [
+    'LENNART I SALOM AB',
+    'LÖFGREN&LINDSTRÖM SKOGSTJÄNSTER AB',
+    'PER EDLUNDS BYGG AB',
+    'EDLUND & PARTNERS EKONOMI AB',
+    'HAKALA SKOGSSKÖTSEL AB',
   ],
-  "Västerbottens län": [
-    "TEAMTECH SVERIGE AKTIEBOLAG",
-    "JO KOMMUNIKATION AB",
-    "JZ ELTEKNIK AB",
-    "PERSONALKOLLEN SVERIGE AB",
-    "RUSKTRÄSK ENTREPRENAD AB"
+  'Västerbottens län': [
+    'ALEVA SVERIGE AB',
+    'BRÖDERNA ANDERSSONS GRUS AKTIEBOLAG',
+    'PERSONALKOLLEN SVERIGE AB',
+    'EINAR ANDERSSON & SÖNER ÅKERI AKTIEBOLAG',
+    'M&R Mekan & Konstruktion i Skellefteå AB',
   ],
-  "Västernorrlands län": [
-    "HÖGA KUSTEN TEKNIK RESURS AB",
-    "K. WALLINS MURTEKNIK AB",
-    "OTTOS EL & MONTAGE AB",
-    "JN SOLAR AB",
-    "NORDINS TRAKTORER & SVETS AKTIEBOLAG"
+  'Västernorrlands län': [
+    'SÄLLSTRÖMS ÅKERI AKTIEBOLAG',
+    'MICROGROUP EUROPE AB',
+    'JN SOLAR AB',
+    "TORP'S VATTENSKÄRNING AB",
+    'ÖRNSKÖLDSVIKS RÖRTEKNIK AB',
   ],
-  "Jönköpings län": [
-    "SÄVJO PLASTIC AB",
-    "TOXIC INTERACTIVE SOLUTIONS AB",
-    "DREAMLOGISTICS AB",
-    "JMT JÖNKÖPINGS MONTAGETEKNIK AB",
-    "ELKOMPANIET CARLSTRÖM AB"
+  'Jönköpings län': [
+    'Gustafssons Marktjänst AB',
+    'Baker Corp AB',
+    'TOXIC INTERACTIVE SOLUTIONS AB',
+    'INSITEPART AB',
+    'JH LINDBERGS STÄNGSELMONTAGE AB',
   ],
-  "Kronobergs län": [
-    "MINIFINDER SWEDEN AB",
-    "LJUNGBY SCHAKT AB",
-    "DT BETONG OCH BYGGENTREPRENAD AB",
-    "ELMIERS BYGG AB",
-    "ZENTA AB"
+  'Kronobergs län': [
+    'ITK ENVIFRONT AB',
+    'LJUNGBY SCHAKT AB',
+    'DT BETONG OCH BYGGENTREPRENAD AB',
+    'EMPLEO VÄXJÖ AB',
+    'MINIFINDER SWEDEN AB',
   ],
-  "Hallands län": [
-    "VIAQ AB",
-    "KAKA ARKITEKTER AB",
-    "FALKENBERGS BYGG AB",
-    "SCHAKTSAM AB",
-    "BUD O TAXI STJÄRNRAKETEN AB"
+  'Hallands län': [
+    'Bofint Städservice Sverige AB',
+    'MPG ENTREPRENAD AB',
+    'SafeRadar Research Sweden AB',
+    'AUTO LOUNGE KUNGSBACKA AB',
+    'ISY INFORMATIONSSYSTEM AB',
   ],
-  "Norrbottens län": [
-    "TEAM KJELLIN MINING & ENTREPRENAD AB",
-    "GÖRAN SIMU AB ",
-    "L5 NAVIGATION SYSTEMS AB",
-    "NORR ENTREPRENÖRER AB",
-    "ROBERT BERGS PRODUKTIONSKONSULT AB"
+  'Norrbottens län': [
+    'MIKAEL JOHANSSONS SCHAKT O PLANERING AB',
+    'TEAM KJELLIN MINING & ENTREPRENAD AB',
+    'GÖRAN SIMU AB',
+    'NORDELLS MÅLERI & DEKOR AB',
+    'MULTCON MULTI CONSULTING AB',
   ],
-  "Blekinge län": [
-    "NETWORK SOLUTIONS BLEKINGE AB",
-    "RONNEBY SVETS & SMIDE AKTIEBOLAG",
-    "KYLINGE BYGG AKTIEBOLAG",
-    "TEMO MANAGEMENT AB",
-    "EVOMATIC AB"
+  'Blekinge län': [
+    'Hultmark Sweden AB',
+    'TEMO MANAGEMENT AB',
+    'NORJE SAMBRUK AB',
+    'RECORGANIC MARKET SWEDEN AB',
+    'MALVACOM AB',
   ],
-  "Skåne län": [
-    "PARKSTER AB ",
-    "NORDGRÖNA AB",
-    "D.T HUSCONCEPT AB",
-    "RESTAURANGONLINE SVERIGE AB",
-    "KRONETORP PARK PROJEKT AB"
+  'Skåne län': [
+    'Croisette AB',
+    'PARKSTER AB',
+    'MittLogik Solutions AB',
+    'NORDGRÖNA AB',
+    'Kundpartner Syd AB',
   ],
-  "Kalmar län": [
-    "HATSTORE SCANDINAVIA AB",
-    "ÅKESSON BYGG I KALMAR AB",
-    "24 SE SVERIGE AB",
-    "FRISK ENTREPRENAD I ANKARSRUM AKTIEBOLAG",
-    "ELBOLAGET A&T AB"
+  'Kalmar län': [
+    'TOPPER AB',
+    'Hatstore Scandinavia AB',
+    'Dital AB',
+    'ÖLANDS GRÄVTJÄNST AB',
+    '24 SE SVERIGE AB',
   ],
-  "Västra Götalands län": [
-    "DEVIES DEVELOPMENT AB ",
-    "PLINT AB",
-    "VESTIA CONSTRUCTION GROUP AB ",
-    "RETAIL STAFFING SVERIGE AB ",
-    "HISLAND SOLUTIONS AB"
+  'Västra Götalands län': [
+    'DC WÄST AB',
+    'PLINT AB',
+    'VESTIA CONSTRUCTION GROUP AB',
+    'SAHLEN.P ENTREPRENAD AB',
+    'Devies Development AB',
   ],
-  "Värmlands län": [
-    "WERMKON AB",
-    "KLARAVIK AB",
-    "TIGBRO AKTIEBOLAG",
-    "NAVIERO RESTAURANG OCH LOUNGE AB",
-    "CANTRADE VENTILATION AB"
+  'Värmlands län': [
+    'BMJ BETONGHÅLTAGNING & ENTREPRENAD AB',
+    'Everettson Schakt & Transport AB',
+    'DIET DOCTOR SWEDEN AB',
+    'WEBK AB',
+    'NAVIERO RESTAURANG OCH LOUNGE AB',
   ],
-  "Örebro län": [
-    "LINDESBERG'S BYGG AB",
-    "ASV SPRÄNG & BETONGGOLV NORDEN AB",
-    "H - CONSTRUCTION AB",
-    "BERGSLAGSHUS I GRYTHYTTAN AB",
-    "WANI ENERGI AKTIEBOLAG"
+  'Örebro län': [
+    'KARLSKOGA MOTORSTADION AKTIEBOLAG',
+    'CLOUD ENABLERS AB',
+    'SOLBERGA FÖRSKOLOR AB',
+    'NORA ENTREPRENAD AB',
+    'RAGNARSSON & KINDBERG REKLAM I ÖREBRO AB',
   ],
-  "Västmanlands län": [
-    "SM BETONGGOLV I VÄSTERÅS AB",
-    "ARÉENS ENTREPRENAD AB",
-    "TIXI SOLUTIONS AB",
-    "TOTALBYGGEN I VÄSTERÅS AB",
-    "RESPRO AB"
+  'Västmanlands län': [
+    'MARK & BYGG I KUNGSÖR AB',
+    'FINNTORPETS BYGG OCH KONSULT AB',
+    'HÅKAN MODIN ÅKERI AB',
+    'AROS IT-PARTNER AB',
+    'ARÉENS ENTREPRENAD AB',
   ],
-  "Stockholms län": [
-    "SVEA RENEWABLE SOLAR AB",
-    "SANECO BYGG AB",
-    "TEAMTAILOR AB",
-    "MENTIMETER AB",
-    "MODIGO AB"
+  'Stockholms län': [
+    'Equestrian Stockholm AB',
+    'Steamery AB',
+    'Swebel bygg AB',
+    'Saneco Bygg AB',
+    'Toteme AB',
   ],
-  "Uppsala län": [
-    "LMBAB, LÖFSTRÖMS MARK & BYGG AB",
-    "SWACE DIGITAL AB",
-    "CTC CLINICAL TRIAL CONSULTANTS AB",
-    "AB EVELKO",
-    "FAM SUNDGREN BYGG AB "
-  ]
-}
+  'Uppsala län': [
+    'NUMT Consulting and Sales Aktiebolag',
+    'DTS Akustik AB',
+    'SWACE DIGITAL AB',
+    'FAM SUNDGREN BYGG AB',
+    'THORSÉNS MASKINSERVICE AB',
+  ],
+};
